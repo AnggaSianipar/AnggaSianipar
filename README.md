@@ -1,15 +1,32 @@
-## Hi, I'm Angga Brillyant Pratama Sianipar
+# Hi there, I'm Angga B. P. Sianipar 👋
 
-# 💫 About Me:
+An Information Systems student at Institut Teknologi Del, passionate about software development, systems analysis, and creating user-centered digital solutions. I love exploring how technology can solve real-world problems and creating engaging experiences.
+
+---
+
+### About Me
 - 🎓 **Education:** Information Systems Student at Institut Teknologi Del (Cohort 2024).
+- 💼 **Current Focus:** Deepening my knowledge in systems analysis, UI/UX prototyping, and backend logic.
+- ⚡ **Fun Fact:** I love optimizing systems, designing clean interfaces, and watching immersive stories in my free time.
 
+---
 
-## 🌐 Socials:
+### Tech Stack & Tools
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Programming Languages** | `C`, `Java`, `Python`, `SQL` |
+| **Design & Prototyping** | `Figma`, `Canva`, `Bizagi (BPMN)` |
+| **Networking & Security** | `Wireshark` |
+| **Tools & Platforms** | `Git`, `GitHub` |
+
+---
+
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anga.snpr)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
+
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AnggaSianipar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AnggaSianipar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnggaSianipar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
