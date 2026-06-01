@@ -7,7 +7,6 @@ An Information Systems student at Institut Teknologi Del, passionate about softw
 ### About Me
 - 🎓 **Education:** Information Systems Student at Institut Teknologi Del (Cohort 2024).
 - 💼 **Current Focus:** Deepening my knowledge in systems analysis, UI/UX prototyping, and backend logic.
-- ⚡ **Fun Fact:** I love optimizing systems, designing clean interfaces, and watching immersive stories in my free time.
 
 ---
 
@@ -18,7 +17,6 @@ An Information Systems student at Institut Teknologi Del, passionate about softw
 | **Programming Languages** | `C`, `Java`, `Python`, `SQL` |
 | **Design & Prototyping** | `Figma`, `Canva`, `Bizagi (BPMN)` |
 | **Networking & Security** | `Wireshark` |
-| **Tools & Platforms** | `Git`, `GitHub` |
 
 ---
 
